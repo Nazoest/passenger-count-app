@@ -1,0 +1,73 @@
+body{
+    font-size: larger;
+    background-color: aqua;
+}
+
+button{
+      color:blue;
+    background-color:none;
+    /* display: flex;
+    size: 5rem; */
+    /* border-radius: 50%;
+     */ 
+     
+      
+    
+   
+}
+label{
+    font-size:6rem;
+    text-align: center;                               
+}
+
+
+
+#countLabel{
+    text-align: center;
+       color: red;
+       position: relative;
+       left: 14rem;
+}
+
+
+
+  #increase {
+        position: relative;
+        left: 250px;
+        top: -100px;
+        width: 50px;
+        height: 50px;
+        border-left: 2rem solid transparent;
+        border-radius: 50%;
+        background-color: darkgreen;
+      }
+      
+      #decrease {
+        position: relative;
+        right: -100px;
+        top: -100px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        border-top: 2rem solid transparent;
+        border-bottom: 2rem solid transparent;
+        background-color: deeppink;
+      }
+      
+
+#done{
+    background-color: chocolate;
+    height: 2rem;
+    width: 100%;
+}
+
+.pass{
+  position: relative;
+  left:195px;
+}
+
+
+
+
+
+
